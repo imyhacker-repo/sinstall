@@ -14,7 +14,7 @@ Before Install This Packages, You must have a fresh laravel install.
 To install this package there are 3 important steps.
 === REMOVE ===
 
-# First, delete some files and folders
+## First, delete some files and folders
 
    - Home Controller
 
@@ -32,7 +32,7 @@ resources/views
 
 === INSTALL ===
 
-# Second, After delete a HomeController and Views folder, next install this Packages.
+## Second, After delete a HomeController and Views folder, next install this Packages.
 
 Open Your Terminal And Paste This.
 
@@ -43,7 +43,7 @@ composer require arikun/arinstaller
 
 === SETUP ===
 
-# Third, After finish install this packages, you must setup a package.
+## Third, After finish install this packages, you must setup a package.
 
   -  Open app.php
 
@@ -85,11 +85,11 @@ Provider:  Arikun\Stislasimple\StislaServiceProvider
 
 
 
-#    Last
+# Last
 
 Last setup your database (For Login To Dashboard), and boom.
 
-#=== Disclaimer ===
+# === Disclaimer ===
 
 All Copyright Stisla Template Muhamad Nauval Azhar 
 All Copyright Packages This Packages By Me.
