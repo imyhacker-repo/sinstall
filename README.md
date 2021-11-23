@@ -92,11 +92,11 @@ Last setup your database (For Login To Dashboard), and boom.
 
 # === Disclaimer ===
 
-All Copyright Stisla Template Muhamad Nauval Azhar 
+All Copyright Stisla Template Muhamad Nauval Azhar <br /><br />
 All Copyright Packages This Packages By Me.
-
+<br /><br />
 I'm only make this package and little bit modded.
-
+<br /><br />
 Videos How To Install
-
+<br />
 I have also made a video on how to install it.
