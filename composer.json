@@ -1,0 +1,20 @@
+{
+    "name": "arikun/stislasimple",
+    "description": "Fast Installation STISLA Theme In Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arikun\\Stislasimple\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "imyhacker",
+            "email": "arifarhan1602@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    
+}
