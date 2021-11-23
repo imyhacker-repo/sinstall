@@ -12,6 +12,7 @@ Before Install This Packages, You must have a fresh laravel install.
 ## How To Install ?
 
 To install this package there are 3 important steps.
+<br /> <br />
 === REMOVE ===
 
 ## First, delete some files and folders
