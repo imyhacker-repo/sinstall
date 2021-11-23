@@ -1,6 +1,6 @@
 ## Description
 
-SINSTALL is a Package Admin Dashboard From Stisla By Muhamad Nauval Azhar, And Little bit modded this Theme by me, Make It Simply and Fast !
+STISLASIMPLE is a Package Admin Dashboard From Stisla By Muhamad Nauval Azhar, And Little bit modded this Theme by me, Make It Simply and Fast !
 Requirement
 
 Before Install This Packages, You must have a fresh laravel install.
