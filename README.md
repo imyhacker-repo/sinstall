@@ -37,7 +37,7 @@ resources/views
 Open Your Terminal And Paste This.
 
 ```
-composer require arikun/sinstall
+composer require arikun/stislasimple
 
 ```
 
