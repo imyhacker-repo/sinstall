@@ -100,3 +100,4 @@ I'm only make this package and little bit modded.
 Videos How To Install
 <br />
 I have also made a video on how to install it.
+https://www.youtube.com/watch?v=7lHiDMp4_2w
